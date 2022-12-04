@@ -1,0 +1,4 @@
+# Files to ignore
+
+data/owid-covid-data.csv
+deaths_europe_2020.csv
